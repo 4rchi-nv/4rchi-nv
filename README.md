@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on e-commerce app<br>👥 I’m looking to collaborate on creating custom libs<br>🤝 I’m looking for help with JS libraries<br>🌱 I’m currently learning TypeScript | Next.js<br>💬 Ask me about Frontend Development<br>⚡ Fun fact: I am always over-doer, but sometimes re-doer :)
+🔭 I’m currently working on e-commerce app<br>👥 I’m looking to collaborate on creating custom libs<br>🤝 I’m looking for help with JS libraries<br>🌱 I’m currently learning TypeScript | Next.js<br>💬 Ask me about Frontend Development<br>⚡ Fun fact: I am almost always over-doer, only sometimes re-doer :)
 
 
 ## 🌐 Socials:
