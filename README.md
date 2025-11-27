@@ -33,20 +33,6 @@
 - REST, GraphQL, JWT
 - Webpack, Vite, NPM/Yarn
 
-**DevOps & infrastructure**
-
-- Docker, Nginx
-- AWS, Vercel, Heroku, Cloudflare
-- CI/CD: Jenkins
-
-**Data & misc**
-
-- SQLite, MySQL
-- Postman, Swagger
-- Git, GitHub, GitLab, Jira
-- Figma, Photoshop, Blender
-- Arduino (when I feel like touching hardware)
-
 ---
 
 ## 🌐 Where to find me
