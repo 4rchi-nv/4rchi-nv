@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Archi 👋</h1>
+<h1 align="center">Hi, I'm Arslan 👋</h1>
 
 <p align="center">
   <b>Frontend Engineer</b> · TypeScript · React · Next.js
